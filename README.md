@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=435&lines=Hola,+soy+Tomás;Desarrollador+Full+Stack;Estudiante+de+Informática;Fan+del+Dark+Fantasy+y+Code" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&background=00000000&center=true&vCenter=true&width=435&lines=Hola,+soy+Tom%C3%A1s;Desarrollador+Full+Stack;Estudiante+de+Inform%C3%A1tica;Fan+del+Dark+Fantasy+y+Code" alt="Typing SVG" />
+  </a>
+</div>
 
 <h3 align="center">🚀 Transformando café en código limpio y soluciones eficientes.</h3>
 
