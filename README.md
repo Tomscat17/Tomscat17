@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h3 align="center">🚀 Transformando café en código limpio y soluciones eficientes.</h3>
+<h3 align="center">Código limpio y soluciones eficientes.</h3>
 
 <p align="center">
   <a href="https://tomscat17.github.io" target="_blank">
