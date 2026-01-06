@@ -26,7 +26,7 @@ Soy estudiante de **Ingeniería en Informática (3er año)** en Chile 🇨🇱. 
 
 * 🔭 Actualmente trabajando en: **InacapPlanner (PWA)** y proyectos SaaS.
 * 🌱 Aprendiendo activamente: **Arquitectura de Software** y **Desarrollo Móvil Nativo**.
-* 🎮 Hobby: Desarrollo videojuegos en Pixel Art y juego Soulslikes.
+* 🎮 Hobby: Desarrollo videojuegos y diseños en Pixel Art.
 * ⚡ Dato curioso: Mis primeros pagos fueron dinero y periféricos por automatizar tareas en Excel.
 
 ---
