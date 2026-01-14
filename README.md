@@ -13,21 +13,16 @@
   <a href="mailto:tomas_catalan.01@hotmail.com">
     <img src="https://img.shields.io/badge/Contactarme-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/tom%C3%A1s-catal%C3%A1n-710177286/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mí
 
-Soy estudiante de **Ingeniería en Informática (3er año)** en Chile 🇨🇱. Me apasiona el desarrollo de software versátil: desde sistemas web complejos hasta lógica de videojuegos.
+Soy estudiante de **Ingeniería en Informática (4to año)** en Chile 🇨🇱. Me apasiona el desarrollo de software versátil: desde sistemas web complejos hasta lógica de videojuegos.
 
-* 🔭 Actualmente trabajando en: **InacapPlanner (PWA)** y proyectos SaaS.
 * 🌱 Aprendiendo activamente: **Arquitectura de Software** y **Desarrollo Móvil Nativo**.
 * 🎮 Hobby: Desarrollo videojuegos y diseños en Pixel Art.
-* ⚡ Dato curioso: Mis primeros pagos fueron dinero y periféricos por automatizar tareas en Excel.
 
 ---
 
