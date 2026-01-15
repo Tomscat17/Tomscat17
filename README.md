@@ -50,7 +50,9 @@ Soy estudiante de **Ingeniería en Informática (4to año)** en Chile 🇨🇱. 
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tomscat17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=818cf8" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tomscat17&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
   
+  <br>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomscat17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8" height="180" alt="languages graph" />
 </div>
